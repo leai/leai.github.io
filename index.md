@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 深度学习入门-进阶-精通
+title: 深度学习进阶路线
 tagline: 
 ---
 {% include JB/setup %}
