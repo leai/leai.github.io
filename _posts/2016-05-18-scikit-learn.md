@@ -6,12 +6,11 @@ tags : [scikit, python, tutorial]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
+Anaconda is the leading open data science platform powered by Python. The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science. Additionally, you'll have access to over 720 packages that can easily be installed with conda. Anaconda is BSD licensed which gives you permission to use Anaconda commercially and for redistribution. 
 
-## Overview
+## Anaconda
 
-### 下载安装 Anaconda
+### 下载安装
 
 [下载 Anaconda](https://www.continuum.io/downloads).
 
